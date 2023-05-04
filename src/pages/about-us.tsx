@@ -1,8 +1,8 @@
-import {FC} from 'react'
+import {NextPage} from 'next'
 
-const aboutUs: FC = () => {
-  return <div>aboutUs</div>
+const AboutUsPage: NextPage = () => {
+  return <div>AboutUs</div>
   
 }
 
-export default aboutUs
+export default AboutUsPage
