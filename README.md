@@ -13,7 +13,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 <li># or
   yarn dev</li>
 <li># or
-pnpm dev
+  pnpm dev</li>
 ```
 </ul>
 
