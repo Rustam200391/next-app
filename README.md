@@ -7,7 +7,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 <i>First, run the development server:</i>
 <code><br/></code>
 
-```bash
+
+<ul```bash
 npm run dev
 # or
 yarn dev
