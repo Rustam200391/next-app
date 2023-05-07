@@ -12,7 +12,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
   <li>npm run dev</li>
 <li># or
   yarn dev</li>
-# or
+<li># or
 pnpm dev
 ```
 </ul>
