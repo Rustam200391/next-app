@@ -11,7 +11,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 <ul>```bash
   <li>npm run dev</li>
 <li># or
-yarn dev
+  yarn dev</li>
 # or
 pnpm dev
 ```
