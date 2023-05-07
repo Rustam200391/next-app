@@ -9,7 +9,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 <ul>```bash
-npm run dev
+<li>npm run dev
 # or
 yarn dev
 # or
