@@ -4,15 +4,24 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+<h1> create </h1>
+<ins>run "npx create-next-app@latest" </ins>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+<i>First, run the development server</i><b>:</b>
+<a href="#"><code><br/></code>
+<ins>Info</ins></a>
+<br/>
+
+<ul>```bash
+  <li>npm run dev</li>
+<li># or
+  yarn dev</li>
+<li># or
+  pnpm dev</li>
 ```
+</ul>
+
+<a>task</a>
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
