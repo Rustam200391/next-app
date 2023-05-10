@@ -1,13 +1,14 @@
 import { FC } from 'react'
 import { Inter } from 'next/font/google'
 import Image from 'next/image'
-import styles from './Home.module.css'
+import styles from './Home.module.css';
+import Layout from '@/components/layout/Layout';
 
 const inter = Inter({ subsets: ['latin'] })
 
 const Home: FC = () => {
   return (
-    <>
+    <Layout>
       
       <main className={`${styles.main} ${inter.className}`}>
         <div className={styles.description}>
@@ -104,7 +105,7 @@ const Home: FC = () => {
           </a>
         </div>
       </main>
-    </>
+    </Layout>
   )
 }
 
