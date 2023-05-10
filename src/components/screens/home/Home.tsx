@@ -1,7 +1,7 @@
 import { FC } from 'react'
 import { Inter } from 'next/font/google'
 import Image from 'next/image'
-import styles from '../../../styles/Home.module.css'
+import styles from './Home.module.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
