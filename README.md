@@ -7,7 +7,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 <i>First, run the development server</i><b>:</b>
 <a href="#"><code><br/></code>
 <ins>Info</ins></a>
-<
+<br
 
 <ul>```bash
   <li>npm run dev</li>
