@@ -4,7 +4,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-run npx create-next-app@latest for create
+<h1> create </h1>
+<ins>run "npx create-next-app@latest" </ins>
 
 <i>First, run the development server</i><b>:</b>
 <a href="#"><code><br/></code>
