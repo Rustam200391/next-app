@@ -1,5 +1,5 @@
 import { useRouter } from 'next/router'
-import {NextPage} from 'react'
+import {NextPage} from 'next'
 
 const CarPage: NextPage = () => {
   

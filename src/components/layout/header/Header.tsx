@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { FC } from 'react';
+import { FC } from 'react';// импортировать функциональные компоненты
 import styles from './Header.module.css';
 import { useRouter } from 'next/router';
 
