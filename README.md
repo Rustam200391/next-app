@@ -3,16 +3,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-<style>
- h1 { 
-    text-transform: uppercase; /* Заглавные буквы */
-   }
-</style>
+
 
 <h1> create </h1>
 <ins>run "npx create-next-app@latest" </ins>
 
-<i>First, run the development server</i><b>:</b>
+<i>First, run the <sup>d</sup>evelopment server</i><b>:</b>
 <a href="#"><code><br/></code>
 <ins>Info</ins></a>
 <br/>
