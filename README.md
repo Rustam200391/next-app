@@ -9,6 +9,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 <ins>run "npx create-next-app@latest"  </ins>
 or 
 https://miro.medium.com/v2/resize:fit:1400/format:webp/0*qeK-IBMzKDXSxAbG.png
+npx
 
 <i>First, run the <sup>d</sup>evelopment server</i><b>:</b>
 <a href="#"><code><br/></code>
