@@ -10,7 +10,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 <i>or</i>
 https://miro.medium.com/v2/resize:fit:1400/format:webp/0*qeK-IBMzKDXSxAbG.png
 
-npx <b>create-next-app name
+npx <b>c<reate-next-app name
 
 <i>First, run the <sup>d</sup>evelopment server</i><b>:</b>
 <a href="#"><code><br/></code>
