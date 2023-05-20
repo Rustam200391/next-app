@@ -3,7 +3,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-<i>Timecode:
+<i>Timecode</i>:
 
 <h1> <span style="text-transform:uppercase">create</span> </h1>
 <ins>run "npx create-next-app@latest"  </ins>
