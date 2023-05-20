@@ -13,8 +13,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
   <li> 00:09:05- Разбор структуры</li>
    <li> 00:11:16 - Страницы и роутинг </li>
     <li>00:18:51 - Правильная структура для компонентов </li>
-
-    <li></li>
+    <li>00:21:55 - useRouter </li>
 
     <li></li>
 
