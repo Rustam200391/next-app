@@ -11,8 +11,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
   <li> 00:06:39 - Установка проекта </li>
   <li>00:08:23 - Тема и иконки в VS Code</li>
   <li> 00:09:05- Разбор структуры</li>
-
-    <li></li>
+   <li> 00:11:16 - Страницы и роутинг </li>
 
     <li></li>
 
