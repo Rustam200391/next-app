@@ -20,7 +20,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
     <li> 00:48:30 - Страница 404</li>
     <li> 00:49:37 - Как вставлять изображения? Image component </li>
     <li>00:54:23 - Компонент Head </li>
-    <li></li>
+    <li>00:55:47 - SEO оптимизация (Meta component)</li>
     <li></li>
     <li></li>
     <li></li>
