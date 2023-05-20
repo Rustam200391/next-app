@@ -16,7 +16,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
     <li>00:21:55 - useRouter </li>
     <li>00:28:39 - Layout и Навигация по страницам</li>
     <li> 00:35:58 - Написание стилей, модульность и SCSS</li>
-    <li></li>
+    <li> 00:38:10- Новый вариант подгрузки шрифтов (Font component)</li>
     <li></li>
     <li></li>
     <li></li>
