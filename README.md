@@ -29,7 +29,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
     <li>01:32:44 - Как работают react хуки в Next.js?</li>
     <li> 01:33:50 - next.config Файл конфигурации (подробный разбор)</li>
     <li> 01:38:16 - Крутая фишка для авторизированных страниц </li>
-    <li></li>
+    <li>01:43:42 - Создание своего API на next.js </li>
     <li></li>
     <li></li>
     <li></li>
