@@ -23,7 +23,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
     <li>00:55:47 - SEO оптимизация (Meta component)</li>
     <li> 01:02:48 - Импорт только на клиенте ssr:false </li>
     <li>01:05:32 - SSR vs SSG vs ISR (Что и когда использовать?) </li>
-    <li></li>
+    <li>01:11:51 - getServerSideProps</li>
     <li></li>
     <li></li>
     <li></li>
