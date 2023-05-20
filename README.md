@@ -24,6 +24,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
     <li> 01:02:48 - Импорт только на клиенте ssr:false </li>
     <li>01:05:32 - SSR vs SSG vs ISR (Что и когда использовать?) </li>
     <li>01:11:51 - getServerSideProps</li>
+    <li> 01:26:36 - getStaticProps</li>
     <li></li>
     <li></li>
     <li></li>
@@ -31,6 +32,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
     <li></li>
     <li></li>
     <li></li>
+    <li></li>
+    <li></li>
+
 
 </ul>
 
