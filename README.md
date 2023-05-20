@@ -4,7 +4,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 <i>Timecode</i><b>:</b>
-<ul></ul>
+<ul>
+  <li>00:01:55 Что такое Next.js? и его преимущества</li>
+</ul>
 
 <h1> <span style="text-transform:uppercase">create</span> </h1>
 <ins>run "npx create-next-app@latest"  </ins>
