@@ -18,7 +18,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
     <li> 00:35:58 - Написание стилей, модульность и SCSS</li>
     <li> 00:38:10- Новый вариант подгрузки шрифтов (Font component)</li>
     <li> 00:48:30 - Страница 404</li>
-    <li></li>
+    <li> 00:49:37 - Как вставлять изображения? Image component </li>
     <li></li>
     <li></li>
     <li></li>
