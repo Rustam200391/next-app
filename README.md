@@ -25,7 +25,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
     <li>01:05:32 - SSR vs SSG vs ISR (Что и когда использовать?) </li>
     <li>01:11:51 - getServerSideProps</li>
     <li> 01:26:36 - getStaticProps</li>
-    <li></li>
+    <li> 01:28:30 - getStaticPaths </li>
     <li></li>
     <li></li>
     <li></li>
