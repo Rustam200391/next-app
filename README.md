@@ -9,6 +9,51 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 <ul>
   <li>00:01:55 Что такое Next.js? и его преимущества</li>
   <li> 00:06:39 - Установка проекта </li>
+  <li></li>
+    <li>00:08:23 - Тема и иконки в VS Code</li>
+
+    <li></li>
+
+    <li></li>
+
+    <li></li>
+
+    <li></li>
+
+    <li></li>
+
+    <li></li>
+
+    <li></li>
+
+    <li></li>
+
+    <li></li>
+
+    <li></li>
+
+    <li></li>
+
+    <li></li>
+
+    <li></li>
+
+    <li></li>
+
+    <li></li>
+
+    <li></li>
+
+    <li></li>
+
+    <li></li>
+
+    <li></li>
+
+    <li></li>
+
+    <li></li>
+
 </ul>
 
 <h1> <span style="text-transform:uppercase">create</span> </h1>
