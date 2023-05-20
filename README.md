@@ -30,7 +30,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
     <li> 01:33:50 - next.config Файл конфигурации (подробный разбор)</li>
     <li> 01:38:16 - Крутая фишка для авторизированных страниц </li>
     <li>01:43:42 - Создание своего API на next.js </li>
-    <li></li>
+    <li>01:45:52 - Next.js 13 BETA на будущее</li>
     <li></li>
     <li></li>
 
