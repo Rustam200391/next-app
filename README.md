@@ -8,6 +8,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 <b>:</b>
 <ul>
   <li>00:01:55 Что такое Next.js? и его преимущества</li>
+  <li> 00:06:39 - Установка проекта </li>
 </ul>
 
 <h1> <span style="text-transform:uppercase">create</span> </h1>
