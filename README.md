@@ -6,7 +6,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 <i><b>T</b>imecod<b>e</b></i>
   <a href:"https://www.youtube.com/watch?v=g1mPqu7u39o">link</a>
-<b>
+<b
 <ul>
   <li>00:01:55 Что такое <ins>Next.js</ins>? и его преимущества</li>
   <li> 00:06:39 - Установка проекта </li>
