@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-<i><b>T</bimecod<b>e</b</i>
+<i><b>T</bimecod<b>e</</i>
   <a href:"https://www.youtube.com/watch?v=g1mPqu7u39o">link</a>
 
 <ul>
