@@ -37,7 +37,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 </ul>
 
 <h1> <span style="text-transform:uppercase">create</span> </h1>
-<n run "npx create-next-app@latest"  
+< run "npx create-next-app@latest"  
 <i>or</i>
 https://miro.medium.com/v2/resize:fit:1400/format:webp/0*qeK-IBMzKDXSxAbG.png
 
