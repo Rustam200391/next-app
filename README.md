@@ -8,7 +8,7 @@ Timecode
   <a href:"https://www.youtube.com/watch?v=g1mPqu7u39o">Link</a>
 
 <ul>
-  <li>00:01:55 Что такое <Next.js? и его преимущества</li>
+  <li>00:01:55 Что такое Next.js? и его преимущества</li>
   <li> 00:06:39 - Установка проекта </li>
   <li>00:08:23 - Тема и иконки в VS Code</li>
   <li> 00:09:05- Разбор структуры</li>
