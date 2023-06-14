@@ -41,7 +41,7 @@ Timecode
 <i>or</i>
 https://miro.medium.com/v2/resize:fit:1400/format:webp/0*qeK-IBMzKDXSxAbG.png
 
-npx <b>c<breate-next-app 13.01 name
+npx <b>cbreate-next-app 13.01 name
 
 <i>First, run the <sup>d</sup>evelopment server</i><b>:</b>
 <a href="#"><code><br/></code>
