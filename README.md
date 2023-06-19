@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 <a>Timecode</a>
-  <a href:"https://www.youtube.com/watch?v=g1mPqu7u39o">Link</a>
+  <a href:"https://www.youtube.com/watch?v=g1mPqu7u39o" alt="ccылка">Link</a>
 
 <ul>
   <li>00:01:55 Что такое Next.js?Его преимущества</li>
