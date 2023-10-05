@@ -7,7 +7,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 Timecode
   <a href:"https://www.youtube.com/watch?v=g1mPqu7u39o" alt="ccылка">Link</a>
 
-<
+
   <li>00:01:55 Что такое Next.js?Его преимущества</li>
   <li> 00:06:39 - Установка проекта </li>
   <li>00:08:23 - Тема и иконки в VS Code</li>
